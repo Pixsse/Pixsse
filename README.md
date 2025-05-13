@@ -26,7 +26,8 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/UE_Logo_Black_Centered.svg" alt="Unreal Engine" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/unreal-engine.png" alt="Unreal Engine" width="40" height="40"/>
+
 </p>
 
 ---
@@ -36,11 +37,3 @@
 - 🎮 I build interactive experiences using **Unreal Engine** and **C++**.
 - 🌐 On the web side, I enjoy using **Vue.js**, **JavaScript**, and **Bootstrap** to craft clean, responsive UIs.
 - 🎯 Always open to exciting projects and collaborations!
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
-</p>
