@@ -1,15 +1,15 @@
 # Pixsse.github.io
 
-<h1 align="center">Hi there, I'm Pixsse  👋</h1>
+<h1 align="center">Hi there, I'm Pixsse 👋</h1>
 
 <p align="center">
-  Passionate developer who love Unreal Engine ⚙️🎮<br>
+  Passionate developer who love Unreal Engine <br>
   Always curious, always learning — I enjoy building engaging digital experiences.
 </p>
 
 ---
 
-### 🧰 Tech Stack I Love Working With
+### Tech Stack I Love Working With
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -32,8 +32,8 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 🎮 I build interactive experiences using **Unreal Engine** and **C++**.
-- 🌐 On the web side, I enjoy using **Vue.js**, **JavaScript**, and **Bootstrap** to craft clean, responsive UIs.
-- 🎯 Always open to exciting projects and collaborations!
+- I build interactive experiences using **Unreal Engine** and **C++**.
+- On the web side, I enjoy using **Vue.js**, **JavaScript**, and **Bootstrap** to craft clean, responsive UIs.
+- Always open to exciting projects and collaborations!
