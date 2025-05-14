@@ -35,5 +35,5 @@
 ### About Me
 
 - I build interactive experiences using **Unreal Engine** and **C++**.
-- On the web side, I enjoy using **Vue.js**, **JavaScript**, and **Bootstrap** to craft clean, responsive UIs.
+- On the web side, I enjoy using **Vue.js**, **JavaScript**, and **Bootstrap** to create clean, responsive UIs.
 - Always open to exciting projects and collaborations!
