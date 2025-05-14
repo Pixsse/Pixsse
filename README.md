@@ -1,5 +1,3 @@
-# Pixsse.github.io
-
 <h1 align="center">Hi there, I'm Pixsse 👋</h1>
 
 <p align="center">
