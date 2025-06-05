@@ -24,8 +24,6 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
 
-  <img src="https://img.icons8.com/ios-filled/50/000000/unreal-engine.png" alt="Unreal Engine" width="40" height="40"/>
-
 </p>
 
 ---
